@@ -1,0 +1,21 @@
+/* CSS Document*/
+
+/*
+
+Css is structured as follows:
+
+selector {
+    property: value;
+    property: value;
+    property: value
+}
+
+Each selector is paired with and styles an element, for example:
+
+html {} is paired with tand styles <html>
+
+*/
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
